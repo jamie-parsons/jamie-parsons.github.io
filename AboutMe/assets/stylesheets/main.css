@@ -28,7 +28,7 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
-body {
+body { 
 	line-height: 1
   height: auto;
   background: url(https://cloud.githubusercontent.com/assets/28675620/26029921/3404870c-37ff-11e7-899d-1c74b5738770.png) no-repeat fixed center;
