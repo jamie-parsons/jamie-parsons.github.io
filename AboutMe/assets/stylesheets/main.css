@@ -135,8 +135,6 @@ a:hover {
 }
 
 .container {
-display: grid;
-  grid-template-columns: minmax(200px, 500px) 1fr;
 
 }
 .grid,
