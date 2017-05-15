@@ -149,7 +149,6 @@ a:hover {
   vertical-align: top;
   width: 25.33%;
   background-color: #fff;
-  margin-left: -5px;
 }
 .content {
 	grid-template-columns: minmax(200px, 1450px) 1fr;
