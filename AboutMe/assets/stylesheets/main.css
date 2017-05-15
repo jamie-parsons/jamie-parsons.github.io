@@ -156,6 +156,7 @@ a:hover {
 }
 .col-1-2,
 .col-2-2 {
+	grid-template-columns: minmax(200px, 1450px) 1fr;
   display: inline-block;
   background-color: #fff;
 }
