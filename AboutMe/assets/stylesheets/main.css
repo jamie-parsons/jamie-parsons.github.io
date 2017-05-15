@@ -15,7 +15,7 @@ table, caption, tbody, tfoot, thead, tr, th, td,
 article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
-time, mark, audio, video, grid {
+time, mark, audio, video, {
 	margin: 0;
 	padding: 0;
 	border: 0;
@@ -25,13 +25,13 @@ time, mark, audio, video, grid {
 
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section, grid {
+footer, header, hgroup, menu, nav, section, {
 	display: block;
 }
 body { 
 	line-height: 1
   height: auto;
-  background: url(https://cloud.githubusercontent.com/assets/28675620/26029921/3404870c-37ff-11e7-899d-1c74b5738770.png) no-repeat fixed center;
+  background: url(https://cloud.githubuser.com/assets/28675620/26029921/3404870c-37ff-11e7-899d-1c74b5738770.png) no-repeat fixed center;
   background-position: center 77px;
   background-image: no-repeat;
   background-image: contain;
@@ -131,7 +131,7 @@ a:hover {
   GRIDS
 */
 .grid {
-	
+	grid-template-columns: minmax(200px, 1450px) 1fr;
 }
 
 .container {
