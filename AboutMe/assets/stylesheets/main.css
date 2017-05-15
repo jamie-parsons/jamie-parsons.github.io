@@ -137,10 +137,7 @@ a:hover {
 .container {
 display: grid;
   grid-template-columns: minmax(200px, 500px) 1fr;
-}
-	grid-template-columns: minmax(200px, 1400px) 1fr;
-  padding-left: 0px;
-  padding-right: 30px;
+
 }
 .grid,
 .col-1-3 {
